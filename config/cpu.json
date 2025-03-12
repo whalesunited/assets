@@ -1,0 +1,11 @@
+{
+  "name": "Central Precessing Unit",
+  "symbol": "CPU",
+  "description": "A token for everyone",
+  "image": "https://whalesunited.github.io/assets/img/cpu.png",
+  "extensions": {
+    "website": "https://whalesunited.github.io",
+    "twitter": "https://x.com/cpu_token",
+    "telegram": "https://t.me/cpu_token"
+  }
+}
